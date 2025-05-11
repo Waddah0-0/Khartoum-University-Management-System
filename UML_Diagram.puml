@@ -1,0 +1,130 @@
+@startuml
+
+class User {
+  -username: String
+  -password: String
+  +login(username: String, password: String): boolean
+  +logout(): void
+  +displayMenu(): void
+}
+
+class Student {
+  -studentId: String
+  -grades: List<Double>
+  +registerForCourse(course: Course): void
+  +dropCourse(course: Course): void
+  +calculateGPA(): double
+  +getAcademicStatus(): String
+  +viewGrades(): void
+  +markAttendance(): void
+  +viewAttendance(): void
+}
+
+class Faculty {
+  -facultyId: String
+  +assignGrade(student: Student, grade: double): void
+  +viewStudents(): void
+  +manageCourse(): void
+  +updateProfile(): void
+  +viewTeachingSchedule(): void
+}
+
+class SystemAdmin {
+  +createUser(): void
+  +deleteUser(): void
+  +manageDepartments(): void
+  +configureSystem(): void
+  +viewSystemLogs(): void
+  +backupData(): void
+}
+
+class AdminStaff {
+  +manageStudentRecords(): void
+  +scheduleCourses(): void
+  +processEnrollments(): void
+  +generateReports(): void
+  +manageAttendance(): void
+}
+
+class Course {
+  -courseId: String
+  -name: String
+  -department: Department
+  -credits: int
+  -capacity: int
+  +enrollStudent(student: Student): void
+  +removeStudent(student: Student): void
+  +getEnrolledStudents(): List<Student>
+  +setGrade(student: Student, grade: double): void
+  +getCourseInfo(): String
+}
+
+class LectureCourse {
+  +scheduleLecture(): void
+  +assignLectureHall(): void
+  +manageLectureMaterials(): void
+}
+
+class LabCourse {
+  +scheduleLab(): void
+  +assignLabRoom(): void
+  +manageLabEquipment(): void
+}
+
+class SeminarCourse {
+  +scheduleSeminar(): void
+  +assignSeminarRoom(): void
+  +managePresentations(): void
+}
+
+class Department {
+  -deptId: String
+  -name: String
+  -headOfDepartment: String
+  +addCourse(course: Course): void
+  +removeCourse(course: Course): void
+  +getFaculty(): List<Faculty>
+  +addFaculty(faculty: Faculty): void
+  +removeFaculty(faculty: Faculty): void
+}
+
+class University {
+  -name: String
+  +createDepartment(department: Department): void
+  +getDepartments(): List<Department>
+  +getCourses(): List<Course>
+  +addCourse(course: Course): void
+  +removeCourse(course: Course): void
+}
+
+class FileManager {
+  +loadAllData(): List<User>
+  +saveAllData(): void
+  +loadUsers(): List<User>
+  +saveUsers(): void
+  +loadCourses(): List<Course>
+  +saveCourses(): void
+  +loadEnrollments(): List<String[]>
+  +saveEnrollments(): void
+  +createBackup(): void
+  +restoreBackup(): void
+}
+
+User <|-- Student
+User <|-- Faculty
+User <|-- SystemAdmin
+User <|-- AdminStaff
+Course <|-- LectureCourse
+Course <|-- LabCourse
+Course <|-- SeminarCourse
+Department "1" *-- "many" Course
+University "1" *-- "many" Department
+FileManager ..> User
+FileManager ..> Course
+FileManager ..> Department
+
+' Aggregation relationships
+University o-- "many" Course
+Department o-- "many" Faculty
+
+@enduml 
