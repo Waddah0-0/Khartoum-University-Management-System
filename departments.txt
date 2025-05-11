@@ -1,0 +1,3 @@
+CS,Computer Science,Dr. Ahmed,3,6
+IT,Information Technology,Dr. Sarah,2,4
+IS,Information Systems,Dr. Mohamed,2,3 

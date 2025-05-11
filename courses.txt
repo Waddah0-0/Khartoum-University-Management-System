@@ -1,0 +1,6 @@
+CS101,Introduction to Programming,Basic programming concepts and problem solving,3,30,MWF 10:00-11:00,Engineering Building Room 101,LECTURE,Traditional,40
+CS102,Data Structures,Study of fundamental data structures and algorithms,3,25,MWF 11:00-12:00,Engineering Building Room 102,LECTURE,Traditional,35
+CS201,Programming Lab,Hands-on programming practice,1,20,TTh 14:00-16:00,Computer Lab 1,LAB,Computers and Software,20
+CS301,Software Engineering Seminar,Advanced topics in software development,2,15,F 13:00-15:00,Conference Room A,SEMINAR,Software Development,15,true
+CS202,Database Systems,Introduction to database design and management,3,25,MWF 13:00-14:00,Engineering Building Room 103,LECTURE,Traditional,35
+CS203,Web Development Lab,Practical web development exercises,1,20,TTh 16:00-18:00,Computer Lab 2,LAB,Computers and Software,20

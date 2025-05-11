@@ -1,0 +1,80 @@
+U001,admin1,admin123,omerrrr,admin@university.edu,555-0001,SYSTEM_ADMIN,SA001,10
+U002,student1,pass123,waddah,ahmed@student.edu,555-1001,STUDENT,S001,Computer Science
+U003,student2,pass123,Sarah Ali,sarah@student.edu,555-1002,STUDENT,S002,Computer Science
+U004,faculty1,pass123,sara,mhassan@faculty.edu,555-2001,FACULTY,F001,Computer Science,Software Engineering
+U005,faculty2,pass123,Dr. Fatima Ahmed,fahmed@faculty.edu,555-2002,FACULTY,F002,Computer Science,Database Systems
+U006,staff1,pass123,Samir Ibrahim,sibrahim@staff.edu,555-3001,ADMIN_STAFF,AS001,Registrar
+U007,student3,pass123,Omar Khalid,omar@student.edu,555-1003,STUDENT,S003,Computer Science
+U008,student4,pass123,Layla Hassan,layla@student.edu,555-1004,STUDENT,S004,Computer Science
+U009,faculty3,pass123,Dr. Khalid Omar,komar@faculty.edu,555-2003,FACULTY,F003,Computer Science,Artificial Intelligence
+U010,staff2,pass123,Nadia Ali,nali@staff.edu,555-3002,ADMIN_STAFF,AS002,Academic Advisor
+adafa,fasf,sadffs,fsafas,fasdasdf,fsaf,STUDENT,fsadfd,Computer Science
+adafa,fasf,sadffs,fsafas,fasdasdf,fsaf,STUDENT,fsadfd,Computer Science
+sadf,fsad,fds,dfs,fasd,fds,FACULTY,ff,d,d
+adafa,fasf,sadffs,fsafas,fasdasdf,fsaf,STUDENT,fsadfd,Computer Science
+sadf,fsad,fds,dfs,fasd,fds,FACULTY,ff,d,d
+sdffdsa,fds,sda,asdf,sdaf,ds,ADMIN_STAFF,df,d
+U001,admin1,admin123,omerrrr,admin@university.edu,555-0001,SYSTEM_ADMIN,SA001,10
+U002,student1,pass123,waddah,ahmed@student.edu,555-1001,STUDENT,S001,Computer Science
+U003,student2,pass123,Sarah Ali,sarah@student.edu,555-1002,STUDENT,S002,Computer Science
+U004,faculty1,pass123,sara,mhassan@faculty.edu,555-2001,FACULTY,F001,Computer Science,Software Engineering
+U005,faculty2,pass123,Dr. Fatima Ahmed,fahmed@faculty.edu,555-2002,FACULTY,F002,Computer Science,Database Systems
+U006,staff1,pass123,Samir Ibrahim,sibrahim@staff.edu,555-3001,ADMIN_STAFF,AS001,Registrar
+U007,student3,pass123,Omar Khalid,omar@student.edu,555-1003,STUDENT,S003,Computer Science
+U008,student4,pass123,Layla Hassan,layla@student.edu,555-1004,STUDENT,S004,Computer Science
+U009,faculty3,pass123,Dr. Khalid Omar,komar@faculty.edu,555-2003,FACULTY,F003,Computer Science,Artificial Intelligence
+U010,staff2,pass123,Nadia Ali,nali@staff.edu,555-3002,ADMIN_STAFF,AS002,Academic Advisor
+adafa,fasf,sadffs,fsafas,fasdasdf,fsaf,STUDENT,fsadfd,Computer Science
+adafa,fasf,sadffs,fsafas,fasdasdf,fsaf,STUDENT,fsadfd,Computer Science
+sadf,fsad,fds,dfs,fasd,fds,FACULTY,ff,d,d
+adafa,fasf,sadffs,fsafas,fasdasdf,fsaf,STUDENT,fsadfd,Computer Science
+sadf,fsad,fds,dfs,fasd,fds,FACULTY,ff,d,d
+sdffdsa,fds,sda,asdf,sdaf,ds,ADMIN_STAFF,df,d
+U001,admin1,admin123,omerrrr,admin@university.edu,555-0001,SYSTEM_ADMIN,SA001,10
+U002,student1,pass123,waddah,ahmed@student.edu,555-1001,STUDENT,S001,Computer Science
+U003,student2,pass123,Sarah Ali,sarah@student.edu,555-1002,STUDENT,S002,Computer Science
+U004,faculty1,pass123,sara,mhassan@faculty.edu,555-2001,FACULTY,F001,Computer Science,Software Engineering
+U005,faculty2,pass123,Dr. Fatima Ahmed,fahmed@faculty.edu,555-2002,FACULTY,F002,Computer Science,Database Systems
+U006,staff1,pass123,Samir Ibrahim,sibrahim@staff.edu,555-3001,ADMIN_STAFF,AS001,Registrar
+U007,student3,pass123,Omar Khalid,omar@student.edu,555-1003,STUDENT,S003,Computer Science
+U008,student4,pass123,Layla Hassan,layla@student.edu,555-1004,STUDENT,S004,Computer Science
+U009,faculty3,pass123,Dr. Khalid Omar,komar@faculty.edu,555-2003,FACULTY,F003,Computer Science,Artificial Intelligence
+U010,staff2,pass123,Nadia Ali,nali@staff.edu,555-3002,ADMIN_STAFF,AS002,Academic Advisor
+adafa,fasf,sadffs,fsafas,fasdasdf,fsaf,STUDENT,fsadfd,Computer Science
+adafa,fasf,sadffs,fsafas,fasdasdf,fsaf,STUDENT,fsadfd,Computer Science
+sadf,fsad,fds,dfs,fasd,fds,FACULTY,ff,d,d
+adafa,fasf,sadffs,fsafas,fasdasdf,fsaf,STUDENT,fsadfd,Computer Science
+sadf,fsad,fds,dfs,fasd,fds,FACULTY,ff,d,d
+sdffdsa,fds,sda,asdf,sdaf,ds,ADMIN_STAFF,df,d
+U001,admin1,admin123,omerrrr,admin@university.edu,555-0001,SYSTEM_ADMIN,SA001,10
+U002,student1,pass123,waddah,ahmed@student.edu,555-1001,STUDENT,S001,Computer Science
+U003,student2,pass123,Sarah Ali,sarah@student.edu,555-1002,STUDENT,S002,Computer Science
+U004,faculty1,pass123,sara,mhassan@faculty.edu,555-2001,FACULTY,F001,Computer Science,Software Engineering
+U005,faculty2,pass123,Dr. Fatima Ahmed,fahmed@faculty.edu,555-2002,FACULTY,F002,Computer Science,Database Systems
+U006,staff1,pass123,Samir Ibrahim,sibrahim@staff.edu,555-3001,ADMIN_STAFF,AS001,Registrar
+U007,student3,pass123,Omar Khalid,omar@student.edu,555-1003,STUDENT,S003,Computer Science
+U008,student4,pass123,Layla Hassan,layla@student.edu,555-1004,STUDENT,S004,Computer Science
+U009,faculty3,pass123,Dr. Khalid Omar,komar@faculty.edu,555-2003,FACULTY,F003,Computer Science,Artificial Intelligence
+U010,staff2,pass123,Nadia Ali,nali@staff.edu,555-3002,ADMIN_STAFF,AS002,Academic Advisor
+adafa,fasf,sadffs,fsafas,fasdasdf,fsaf,STUDENT,fsadfd,Computer Science
+adafa,fasf,sadffs,fsafas,fasdasdf,fsaf,STUDENT,fsadfd,Computer Science
+sadf,fsad,fds,dfs,fasd,fds,FACULTY,ff,d,d
+adafa,fasf,sadffs,fsafas,fasdasdf,fsaf,STUDENT,fsadfd,Computer Science
+sadf,fsad,fds,dfs,fasd,fds,FACULTY,ff,d,d
+sdffdsa,fds,sda,asdf,sdaf,ds,ADMIN_STAFF,df,d
+U001,admin1,admin123,omerrrr,admin@university.edu,555-0001,SYSTEM_ADMIN,SA001,10
+U002,student1,pass123,waddah,ahmed@student.edu,555-1001,STUDENT,S001,Computer Science
+U003,student2,pass123,Sarah Ali,sarah@student.edu,555-1002,STUDENT,S002,Computer Science
+U004,faculty1,pass123,sara,mhassan@faculty.edu,555-2001,FACULTY,F001,Computer Science,Software Engineering
+U005,faculty2,pass123,Dr. Fatima Ahmed,fahmed@faculty.edu,555-2002,FACULTY,F002,Computer Science,Database Systems
+U006,staff1,pass123,Samir Ibrahim,sibrahim@staff.edu,555-3001,ADMIN_STAFF,AS001,Registrar
+U007,student3,pass123,Omar Khalid,omar@student.edu,555-1003,STUDENT,S003,Computer Science
+U008,student4,pass123,Layla Hassan,layla@student.edu,555-1004,STUDENT,S004,Computer Science
+U009,faculty3,pass123,Dr. Khalid Omar,komar@faculty.edu,555-2003,FACULTY,F003,Computer Science,Artificial Intelligence
+U010,staff2,pass123,Nadia Ali,nali@staff.edu,555-3002,ADMIN_STAFF,AS002,Academic Advisor
+adafa,fasf,sadffs,fsafas,fasdasdf,fsaf,STUDENT,fsadfd,Computer Science
+adafa,fasf,sadffs,fsafas,fasdasdf,fsaf,STUDENT,fsadfd,Computer Science
+sadf,fsad,fds,dfs,fasd,fds,FACULTY,ff,d,d
+adafa,fasf,sadffs,fsafas,fasdasdf,fsaf,STUDENT,fsadfd,Computer Science
+sadf,fsad,fds,dfs,fasd,fds,FACULTY,ff,d,d
+sdffdsa,fds,sda,asdf,sdaf,ds,ADMIN_STAFF,df,d
