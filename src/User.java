@@ -63,6 +63,7 @@ public abstract class User {
 
     public abstract void displayMenu();
     public abstract void updateProfile();
+    public abstract double Payroll();
 
     public boolean login(String username, String password) {
         return this.username.equals(username) && this.password.equals(password);

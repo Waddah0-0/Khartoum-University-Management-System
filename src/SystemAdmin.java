@@ -109,6 +109,11 @@ public class SystemAdmin extends User {
     }
 
     @Override
+    public double Payroll() {
+        return 4000;
+    }
+
+    @Override
     public void displayMenu() {
         System.out.println("\nSystem Administrator Menu:");
         System.out.println("1. Create New User");

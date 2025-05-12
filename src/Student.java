@@ -6,6 +6,7 @@ public class Student extends User {
     private String admissionDate;
     private String academicStatus; 
     private String department;
+    private double GPA;
     private List<Course> enrolledCourses;
     private List<Double> grades;
     private List<List<Boolean>> attendance; 
@@ -142,6 +143,10 @@ public class Student extends User {
         System.out.println("5. Back to Menu");
     }
 
+    public double Payroll() {
+        return 0.0;
+    }
+
     public String getStudentId() {
         return studentId;
     }
@@ -181,4 +186,12 @@ public class Student extends User {
     public int getTotalCredits() {
         return totalCredits;
     }
-} 
+
+    public double getGPA() {
+        return GPA;
+    }
+
+    public void setGPA(double GPA) {
+        this.GPA = GPA;
+    }
+}

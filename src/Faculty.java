@@ -78,6 +78,11 @@ public class Faculty extends User {
         return false;
     }
 
+    @Override
+    public double Payroll() {
+        return 5000;
+    }
+
     public String getFacultyId() { return facultyId; }
     public String getDepartment() { return department; }
     public String getSpecialization() { return specialization; }

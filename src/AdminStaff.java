@@ -70,6 +70,11 @@ public class AdminStaff extends User {
         System.out.println("7. Back to Menu");
     }
 
+    @Override
+    public double Payroll() {
+        return 7000;
+    }
+
     public String getStaffId() {
         return staffId;
     }
