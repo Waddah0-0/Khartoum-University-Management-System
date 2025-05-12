@@ -11,7 +11,7 @@ public class Main {
 
     public static void main(String[] args) {
         scanner = new Scanner(System.in);
-        university = new University("Alexandria University");
+        university = new University("Khartoum University");
                 Department csDepartment = new ComputerScienceDepartment("CS", "Computer Science", "Dr. Ahmed");
         university.createDepartment(csDepartment);
         
